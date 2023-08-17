@@ -1,0 +1,40 @@
+1.Create a smart contract 
+
+2.Create a server:
+  
+  i.keep the deployed contract address and its abi inside a folder(api)
+
+  ii.cd api
+
+  iii.npm init --y
+
+  iv.npm i express cors web3
+
+  v.npm i nodemon
+
+  vi.Change : "start": "node server.js"  to "start": "nodemon server.js" in package.json
+
+  vii.npm start //to compile
+
+3.Install react:
+
+  i.npm create vite@latest
+
+  ii.cd client
+  
+  iii.npm install
+  
+  iv.npm run dev
+
+  v.cd client 
+
+  vi.npm i web3@1.9.0 
+
+  vii.npm i react-router-dom@6.14.1
+
+
+
+ERROR:
+
+
+
