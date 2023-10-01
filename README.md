@@ -4,7 +4,6 @@
 
 BERN Project is a decentralized application (dApp) that utilizes the Ethereum blockchain for transparency and security. It provides a user-friendly interface built with React.js for interacting with the blockchain, while the server side is powered by Node.js and Express.
 
-[Watch the BERN Project Demo](https://youtu.be/zfLGYZDYFuo)
 
 
 ## Table of Contents
@@ -22,9 +21,9 @@ Welcome to the BERN Project repository! This project aims to showcase the potent
 
 Follow the steps below to set up the BERN Project on your local machine:
 
-1. Clone the repository: `git clone https://github.com/kshitijofficial/BERN-Project.git`
+1. Clone the repository: `[git clone https://github.com/kshitijofficial/BERN-Project.git](https://github.com/rohitkumargupta348/BERN)`
 2. Navigate to the project folder: `cd BERN-Project`
-3. Navigate to the api folder: `cd api`
+3. Navigat to the api folder: `cd api`
 4. Install server dependencies: `npm install`
 5. Navigate to the `client` folder: `cd client`
 6. Install client dependencies: `npm install`
